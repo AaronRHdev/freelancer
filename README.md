@@ -1,4 +1,4 @@
-# Portafolio Freelancer
+# Perfil Freelancer
 
 ## Descripción
 
@@ -8,7 +8,15 @@ Implementación de una página web, siguiendo el curso: [`Desarrollo Web Complet
 
 Para acceder a mis redes:
 
-| Gmail                                                                                                                  | Github | Linkedin |
-| ---------------------------------------------------------------------------------------------------------------------- | ------ | -------- |
-| <p align="center"><a href="mailto:aaron.rm.hr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a></p>    |
-| <p><a href="https://www.linkedin.com/in/aaronramos-dev/"><img src="https://skillicons.dev/icons?i=linkedin" /></a></p> |
+ Gmail | Github | Linkedin
+------ | ------ | --------
+| <p align="center"><a href="mailto:aaron.rm.hr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a></p>| <p align="center"><a href="https://github.com/AaronRHdev"><img src="https://skillicons.dev/icons?i=github" /></a></p>|<p><a href="https://www.linkedin.com/in/aaronramos-dev/"><img src="https://skillicons.dev/icons?i=linkedin" /></a></p>
+
+## Tecnologías utilizadas
+
+Este proyecto está construido utilizando las siguientes tecnologías:
+
+✅ Uso |⚙️ Lenguaje 
+--------------|---------
+Estructura del sitio web. |<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a></p>
+Estilos y diseño visual. |<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a></p>
